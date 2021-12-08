@@ -1,12 +1,11 @@
 // Copyright (c) 2021 Mel Aguoth All rights reserved.
 //
 // Created By: Mel Aguoth
-// Date: December 7, 2021
+// Date: December 8, 2021
 // Calculates the length of a board that's 144^3 inches with user input.
 
 // Import modules.
 import java.util.InputMismatchException;
-import java.util.Random;
 import java.util.Scanner;
 
 class BoardFoot {
